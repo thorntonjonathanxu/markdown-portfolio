@@ -1,0 +1,1 @@
+Programming with **Visual Studio Code** and speaking _Japanese._
